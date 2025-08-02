@@ -1,4 +1,3 @@
-# Proyecto_Python_DiazVladimir-SantiagoQuiñonez
 
 # Proyecto de JS
 este git del proyecto  de la skiil de js, este proyeto se basa en una base de datos para camuslands
